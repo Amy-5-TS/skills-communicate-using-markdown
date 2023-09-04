@@ -6,3 +6,6 @@
 ``` javascript
 var littleSnake = "Hello, world!";
 ```
+- [x] Stay cute
+- [x] Stay hydrated
+- [x] Be happy!
